@@ -22,7 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anujrawat2k7&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=anujrawat2007&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=anujrawat2007&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anujrawat2007&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
