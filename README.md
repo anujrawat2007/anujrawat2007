@@ -51,4 +51,11 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anujrawat2007&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Top Languages" />
-  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anujrawat2007&theme=nord&no-frame=true&margin-w=15" alt="Trophies" />
+</div>   
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Joined_GitHub-2021-181717?style=for-the-badge&logo=github&logoColor=white" alt="Joined 2021" />
+</div>
