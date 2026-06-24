@@ -52,8 +52,3 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anujrawat2007&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Top Languages" />
   
-  <!-- ⚠️ Niche wale URL me "YOUR_REPO_NAME" ko apne kisi Public repo ke naam se replace karein (e.g., repo=my-website) -->
-  <a href="https://github.com/anujrawat2007">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=anujrawat2007&repo=youtube-clone&theme=blueberry&hide_border=true&v=2" alt="My Best Repo" />
-  </a>
-</div>
