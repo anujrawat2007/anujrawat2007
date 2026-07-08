@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Anuj Rawat</h1>
-  <h3>🧑‍💻 Developer · 🚀 Learner · 🧩 Problem Solver</h3>
+  <h3>🧑‍💻 frontend Developer · 🚀 Learner · 🧩 Problem Solver</h3>
   <a href="https://visitcount.itsvg.in">
     <img src="https://komarev.com/ghpvc/?username=anujrawat2007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
   </a>
