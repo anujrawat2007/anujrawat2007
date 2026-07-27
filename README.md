@@ -48,12 +48,35 @@
   <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
 </p>
 
-
 ### Linux System Adminstration
 
 * ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 * ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## My Progress 
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anujrawat2007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" alt="Commit Streak" style="border-radius: 12px;" />
+</div>
+<!-- <br> -->
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=anujrawat2007&rstyle=plastic&left_text=Profile%20Views%20:" alt="Profile Views" style="margin-right: 10px;" />
+</div>
+
+## Github Activity & Stats
+<div align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anujrawat2007&theme=2077" 
+         alt="Anuj's GitHub Stats" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anujrawat2007&theme=2077" 
+         alt="Anuj's Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anujrawat2007&theme=2077" 
+         alt="Anuj's GitHub Contribution Graph" />
+</div>
 
 
 ## 🐍 Snake Eating Contributions  
