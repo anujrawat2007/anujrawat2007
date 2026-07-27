@@ -1,22 +1,31 @@
-<div align="center">
-  <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Anuj Rawat</h1>
-  <h3>🧑‍💻 frontend Developer · 🚀 Learner · 🧩 Problem Solver</h3>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=anujrawat2007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-  </a>
-</div>
+
+<h1 align="center">
+<img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/e4462d0b-28dd-4baa-8af7-a73d33f29d96" />
+</h1>
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Anuj Rawat</h1>
+<h3 align="center">🎓 BCA Student | 🔐 Digital Forensics & Cybersecurity Enthusiast</h3>
 
 ---
 
-## 🙋‍♂️ About Me
-- 🎓 Pursuing **BCA** (Bachelor of Computer Applications)
-- 💻 Creating **Web Applications** and **Automation** projects
-- 🤖 Working with **Artificial Intelligence** 
-- 📊 Exploring **Meta Ads** & **Digital Marketing**
-- 📈 Focused on continuous growth and practical learning
-- 🚀 Building skills today for the opportunities of tomorrow
-- 🌟 Always curious, always improving
+## 👨‍💻 About Me  
+- 🔭 Currently working on an AI-powered Dopamine Detox & Digital Wellbeing App**  
+- 🌱 Learning **Cybersecurity & Full-Stack Development**  
+- 📫 Reach me at **anujrawat2k7@gmail.com**  
 
+---
+    ## 🌐 Connect With Me  
+<div align="center">
+  <a href="https://linkedin.com/in/#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/ark_rawat_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:anujrawat2k7@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+  </a>
+</div>
 ---
 
 ## 🛠️ Skills & Tools
