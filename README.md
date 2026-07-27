@@ -66,12 +66,11 @@
 
 ## Github Activity & Stats
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anujrawat2007&theme=tokyonight&show_icons=true&hide_border=true" 
+    <img align="center" src="./profile-summary-card-output/2077/3-stats.svg" 
          alt="Anuj's GitHub Stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujrawat2007&theme=tokyonight&layout=compact&hide_border=true" 
+    <img align="center" src="./profile-summary-card-output/2077/2-most-commit-language.svg" 
          alt="Anuj's Top Languages" />
 </div>
-
 
 ## 🐍 Snake Eating Contributions  
 <div align="center">
