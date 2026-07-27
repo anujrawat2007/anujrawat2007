@@ -63,19 +63,13 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=anujrawat2007&rstyle=plastic&left_text=Profile%20Views%20:" alt="Profile Views" style="margin-right: 10px;" />
 </div>
 
+
 ## Github Activity & Stats
 <div align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anujrawat2007&theme=2077" 
-         alt="Anuj's GitHub Stats" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anujrawat2007&theme=2077" 
-         alt="Anuj's Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anujrawat2007&theme=2077" 
-         alt="Anuj's GitHub Contribution Graph" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anujrawat2007&theme=tokyonight&show_icons=true&hide_border=true" 
+         alt="Anuj's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujrawat2007&theme=tokyonight&layout=compact&hide_border=true" 
+         alt="Anuj's Top Languages" />
 </div>
 
 
