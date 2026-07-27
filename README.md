@@ -51,14 +51,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=anujrawat2007&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=anujrawat2007&theme=blueberry&hide_border=true&v=2" alt="GitHub Streak" />
-</div>
-
-## 🐍 Bonus – Snake Eating Contributions  
+## 🐍Snake Eating Contributions  
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
