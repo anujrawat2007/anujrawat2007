@@ -13,8 +13,7 @@
 - 🌱 Learning **Cybersecurity & Full-Stack Development**  
 - 📫 Reach me at **anujrawat2k7@gmail.com**  
 
----
-    ## 🌐 Connect With Me  
+## 🌐 Connect With Me  
 <div align="center">
   <a href="https://linkedin.com/in/#" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
@@ -51,9 +50,9 @@
 
 ---
 
-## 🐍Snake Eating Contributions  
+## 🐍 Snake Eating Contributions  
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/anujrawat2007/anujrawat2007/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
