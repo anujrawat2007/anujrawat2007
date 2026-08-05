@@ -72,7 +72,7 @@
          alt="Anuj's Top Languages" />
 </div>
 
-## 🐍 Snake Eating Contributions  
+# 🐍 Snake Eating Contributions  
 <div align="center">
   <img src="https://raw.githubusercontent.com/anujrawat2007/anujrawat2007/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
